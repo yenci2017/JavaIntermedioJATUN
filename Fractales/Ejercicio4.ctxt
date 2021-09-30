@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejercicio4\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nivel
+comment1.target=int\ CalcularTri\u00E1nguloSierpinski(int)
+numComments=2
