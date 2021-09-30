@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Ejercicio2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ejercicio2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=numero
+comment1.target=int\ calcularFactorial(int)
+comment2.params=numero
+comment2.target=int\ calcularFactorial2(int)
+numComments=3
